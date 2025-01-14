@@ -9,10 +9,6 @@ Este projeto foi desenvolvido para visualizar a fase atual da Lua com base em um
 - **Exibe a imagem correspondente à fase** da Lua, mostrando visualmente o estado atual da Lua.
 - **Suporte para datas passadas e futuras**, permitindo consultas a qualquer momento.
 
-## Fases da Lua
-
-As seguintes fases da Lua são suportadas pelo programa:
-
 ## Tecnologias Usadas
 
 - **Python 3.12**: Linguagem de programação principal.
